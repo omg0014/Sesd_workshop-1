@@ -1,4 +1,4 @@
-# Nexus Inventory System
+# SESD- WORKSHOP [ 1 ]
 
 A lightweight, modern inventory management system built with **TypeScript** and **Object-Oriented Programming (OOP)** principles.
 
