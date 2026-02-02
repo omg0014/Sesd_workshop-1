@@ -1,0 +1,29 @@
+[
+  {
+    "id": "seed-1",
+    "name": "Premium Headphones",
+    "description": "Noise-cancelling over-ear headphones with high-fidelity sound.",
+    "price": 299.99,
+    "category": "Accessories",
+    "createdAt": "2026-02-02T05:27:21.522Z",
+    "updatedAt": "2026-02-02T05:39:44.053Z"
+  },
+  {
+    "id": "seed-2",
+    "name": "Leather Weekend Bag",
+    "description": "Handcrafted genuine leather bag for your short journeys.",
+    "price": 150,
+    "category": "Accessories",
+    "createdAt": "2026-02-02T05:27:21.522Z",
+    "updatedAt": "2026-02-02T05:27:21.522Z"
+  },
+  {
+    "id": "pikuhn58r",
+    "name": "ada",
+    "category": "Electronics",
+    "price": 3223,
+    "description": "d23e432",
+    "createdAt": "2026-02-02T05:35:50.956Z",
+    "updatedAt": "2026-02-02T05:35:55.540Z"
+  }
+]
